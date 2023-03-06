@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e669aeb1f5b1f61e",
+        "id": "932efe366aca1dfe",
         "type": "tabs",
         "children": [
           {
-            "id": "08eab6b1357c1011",
+            "id": "fb13fb00dba9b21d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
+                "file": "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,7 @@
       {
         "id": "20f8ada383788673",
         "type": "tabs",
+        "dimension": 56.25,
         "children": [
           {
             "id": "f10019dfb9fa0509",
@@ -58,12 +59,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "20e9c043d8210f45",
+        "type": "tabs",
+        "dimension": 43.75,
+        "children": [
+          {
+            "id": "08eab6b1357c1011",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 297.5
   },
   "right": {
     "id": "b89bae978f2317d3",
@@ -80,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md"
+                "file": "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md"
               }
             }
           }
@@ -89,7 +104,7 @@
       {
         "id": "cdeb4c5da95908f0",
         "type": "tabs",
-        "dimension": 58.33333333333333,
+        "dimension": 58.333333333333336,
         "children": [
           {
             "id": "b14f447cd3d14f96",
@@ -123,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
+                "file": "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
+                "file": "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,22 +178,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "540312eee5d1f0a2",
+  "active": "fb13fb00dba9b21d",
   "lastOpenFiles": [
-    "Research/Kibana/image/Pasted_image_20230306110855.png",
+    "Research/Kibana/image/Pasted image 20230306142119.png",
+    "Research/Kibana/image/Pasted image 20230306142056.png",
+    "Research/Kibana/image/Pasted image 20230306142012.png",
+    "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
+    "Research/Kibana/image/Pasted image 20230306141721.png",
+    "Research/Kibana/image/Pasted image 20230306141654.png",
+    "Research/Kibana/image/Pasted image 20230306141630.png",
+    "Research/Kibana/image/Pasted image 20230306141550.png",
+    "Research/Kibana/image/Pasted image 20230306141546.png",
+    "Research/Kibana/image/Pasted image 20230306141328.png",
+    "Research/Kibana/image/Pasted image 20230306141026.png",
+    "Research/Kibana/image/Pasted image 20230306140940.png",
+    "'Pasted.md",
+    "image/code1/png.md",
+    "image/code1",
+    "image",
     "Research/Kibana/image/Pasted.md",
     "image.md",
-    "Pasted image 20230306113036.png",
-    "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
     "image/Pasted.md",
     "image/description.png.md",
     "image/description.md",
-    "image",
     "New Text Document.txt",
     "Research/Kibana/image",
-    "Pasted image 20230306110926.png",
     "Research/Mail Exchange/CVE-2022-4108 (ProxyNotShell).md",
-    "Research/Mail Exchange/statics/statics.md",
+    "Research/Mail Exchange/image/statics.md",
     "Research/Mail Exchange/0. Install Mail Exchange.md",
     "Research/Mail Exchange/1. Exchange Admin Center.md",
     "Research/Kibana/statics/statics.md",
@@ -189,12 +214,11 @@
     "Research/Mail Exchange/CVE-2021-31196 (ProxyOracle).md",
     "Cyber Jutsu/Day2 - Uploadfile.md",
     "Research/Mail Exchange/TabShell.md",
-    "Research/Mail Exchange/statics",
+    "Research/Mail Exchange/image",
     "Untitled.md",
     "Context",
     "Research/Zimbra",
     "Research/Kibana",
-    "Research/Mail Exchange",
-    "Research"
+    "Research/Mail Exchange"
   ]
 }

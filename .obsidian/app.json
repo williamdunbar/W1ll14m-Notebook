@@ -1,1 +1,8 @@
-{}
+{
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./image",
+  "promptDelete": false
+}
