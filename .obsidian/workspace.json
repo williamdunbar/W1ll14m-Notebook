@@ -4,105 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7b663a1033f82144",
+        "id": "9e631373d3be6961",
         "type": "tabs",
         "children": [
           {
-            "id": "3a57bf870a616d66",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Research"
-              }
-            }
-          },
-          {
-            "id": "55119c3e4d5362c5",
+            "id": "17a8476ce5cdae89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Mail Exchange/0. Install Mail Exchange.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "113b035570437bc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Mail Exchange/1. Exchange Admin Center.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e7d529e9383575d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Mail Exchange/1. Exchange Admin Center.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84999efd6faf2607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Mail Exchange/CVE-2021-27065 (ProxyLogon).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8e8a300f2a92bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Mail Exchange/CVE-2021-34473 (ProxyShell).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bcf4c4513eafc20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Mail Exchange/CVE-2022-4108 (ProxyNotShell).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6d7b3c66e76fadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Mail Exchange/TabShell.md",
+                "file": "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,21 +43,6 @@
             }
           },
           {
-            "id": "071593b65dca3a7d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "732d3610ce660ad2",
             "type": "leaf",
             "state": {
@@ -156,11 +58,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "b89bae978f2317d3",
@@ -169,7 +73,7 @@
       {
         "id": "6437ca31885722de",
         "type": "tabs",
-        "dimension": 41.66666666666667,
+        "dimension": 41.666666666666664,
         "children": [
           {
             "id": "0f77582fc036713d",
@@ -177,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Mail Exchange/TabShell.md"
+                "file": "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md"
               }
             }
           }
@@ -186,7 +90,7 @@
       {
         "id": "cdeb4c5da95908f0",
         "type": "tabs",
-        "dimension": 58.333333333333336,
+        "dimension": 58.33333333333333,
         "children": [
           {
             "id": "b14f447cd3d14f96",
@@ -200,12 +104,27 @@
             }
           },
           {
+            "id": "071593b65dca3a7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CVE",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "d89c82479bd70e6d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Mail Exchange/TabShell.md",
+                "file": "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Mail Exchange/TabShell.md",
+                "file": "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,11 +148,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,18 +165,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6d7b3c66e76fadc",
+  "active": "17a8476ce5cdae89",
   "lastOpenFiles": [
+    "Research/Kibana/image/Pasted image 20230306110855.png",
+    "Research/Kibana/image",
+    "Pasted image 20230306110926.png",
     "Research/Mail Exchange/CVE-2022-4108 (ProxyNotShell).md",
-    "Research/Mail Exchange/TabShell.md",
-    "Research/Mail Exchange/CVE-2021-34473 (ProxyShell).md",
-    "Research/Mail Exchange/CVE-2021-27065 (ProxyLogon).md",
-    "Research/Mail Exchange/CVE-2021-31196 (ProxyOracle).md",
-    "Research/Mail Exchange/1. Exchange Admin Center.md",
+    "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
+    "Research/Mail Exchange/statics/statics.md",
     "Research/Mail Exchange/0. Install Mail Exchange.md",
+    "Research/Mail Exchange/1. Exchange Admin Center.md",
+    "Research/Kibana/statics/statics.md",
+    "Research/Mail Exchange/CVE-2021-27065 (ProxyLogon).md",
+    "Research/Kibana/statics",
+    "Research/Mail Exchange/CVE-2021-34473 (ProxyShell).md",
+    "Research/Mail Exchange/CVE-2021-31196 (ProxyOracle).md",
+    "Cyber Jutsu/Day2 - Uploadfile.md",
+    "Research/Mail Exchange/TabShell.md",
     "Research/Mail Exchange/statics",
     "Untitled.md",
-    "Cyber Jutsu/Day2 - Uploadfile.md",
     "Context",
     "Research/Zimbra",
     "Research/Kibana",

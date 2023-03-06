@@ -11,7 +11,7 @@
 	3. Biết được rằng nguyên tắc của htttd là nhìn vào đuôi file cuối cùng của `{filename}.php` để xác định eanwgf đây có phải là tập tin PHP và đưa cho mod-php xử lý không?
 	4. Nếu tìm được cách upload file có đuôi `.php` thì httpd thì httpd sẽ thực thi được code ngay
 
-##### Vì sao không làm giống level 1
+#### Vì sao không làm giống level 1
 1. Dev đã sàng lọc (filter) không cho phép upload đuôi file `.php` bằng cách nào? Bằng cách `explode` để nổ dấu `.` trong filename rồi lấy phần tử có index[1] 
 	```php
 	$filename = $_FILES["file"]["name"];

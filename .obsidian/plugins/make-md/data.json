@@ -32,10 +32,16 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "/": []
+    "/": [
+      "Research",
+      "Research/Kibana",
+      "Research/Mail Exchange",
+      "Research/Mail Exchange/statics"
+    ]
   },
   "expandedSpaces": [
     "/",
+    null,
     null
   ],
   "folderRank": {
