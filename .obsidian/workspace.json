@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e631373d3be6961",
+        "id": "e669aeb1f5b1f61e",
         "type": "tabs",
         "children": [
           {
-            "id": "17a8476ce5cdae89",
+            "id": "08eab6b1357c1011",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 418.5
   },
   "right": {
     "id": "b89bae978f2317d3",
@@ -165,14 +164,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17a8476ce5cdae89",
+  "active": "540312eee5d1f0a2",
   "lastOpenFiles": [
+    "Research/Kibana/image/Pasted_image_20230306110855.png",
+    "Research/Kibana/image/Pasted.md",
+    "image.md",
+    "Pasted image 20230306113036.png",
+    "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
+    "image/Pasted.md",
+    "image/description.png.md",
+    "image/description.md",
+    "image",
     "New Text Document.txt",
-    "Research/Kibana/image/Pasted image 20230306110855.png",
     "Research/Kibana/image",
     "Pasted image 20230306110926.png",
     "Research/Mail Exchange/CVE-2022-4108 (ProxyNotShell).md",
-    "Research/Kibana/CVE-2019-7609 ( RCE - Prototype Pollution).md",
     "Research/Mail Exchange/statics/statics.md",
     "Research/Mail Exchange/0. Install Mail Exchange.md",
     "Research/Mail Exchange/1. Exchange Admin Center.md",
