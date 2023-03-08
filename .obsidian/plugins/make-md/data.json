@@ -33,7 +33,6 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Research",
       "Research/Kibana",
       "Research/Mail Exchange",
       "Research/Kibana/image",
@@ -71,6 +70,8 @@
     "rank",
     true
   ],
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
   "inlineBacklinks": true,
   "inlineContext": true,
   "inlineBacklinksExpanded": true,

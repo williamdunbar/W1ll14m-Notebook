@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "932efe366aca1dfe",
+        "id": "da736518143ace00",
         "type": "tabs",
         "children": [
           {
-            "id": "fb13fb00dba9b21d",
+            "id": "77cf8d4f5948b726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
+                "file": "Cyber Jutsu/2. Path Traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "20f8ada383788673",
         "type": "tabs",
-        "dimension": 56.25,
+        "dimension": 63.357843137254896,
         "children": [
           {
             "id": "f10019dfb9fa0509",
@@ -64,10 +64,10 @@
       {
         "id": "20e9c043d8210f45",
         "type": "tabs",
-        "dimension": 43.75,
+        "dimension": 36.6421568627451,
         "children": [
           {
-            "id": "08eab6b1357c1011",
+            "id": "fb13fb00dba9b21d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 247.5
   },
   "right": {
     "id": "b89bae978f2317d3",
@@ -87,7 +87,7 @@
       {
         "id": "6437ca31885722de",
         "type": "tabs",
-        "dimension": 41.666666666666664,
+        "dimension": 41.66666666666666,
         "children": [
           {
             "id": "0f77582fc036713d",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md"
+                "file": "Cyber Jutsu/2. Path Traversal.md"
               }
             }
           }
@@ -104,7 +104,7 @@
       {
         "id": "cdeb4c5da95908f0",
         "type": "tabs",
-        "dimension": 58.333333333333336,
+        "dimension": 58.33333333333334,
         "children": [
           {
             "id": "b14f447cd3d14f96",
@@ -123,8 +123,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CVE",
-                "matchingCase": false,
+                "query": "tag:#hackTrick",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
+                "file": "Cyber Jutsu/2. Path Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
+                "file": "Cyber Jutsu/2. Path Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,47 +178,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb13fb00dba9b21d",
+  "active": "f10019dfb9fa0509",
   "lastOpenFiles": [
-    "Research/Kibana/image/Pasted image 20230306142119.png",
-    "Research/Kibana/image/Pasted image 20230306142056.png",
-    "Research/Kibana/image/Pasted image 20230306142012.png",
+    "Cyber Jutsu/command_injection/cmdi_level7/src/index.php",
+    "Cyber Jutsu/command_injection/cmdi_level7/config/nginx.conf",
+    "Cyber Jutsu/command_injection/cmdi_level7/src",
+    "Cyber Jutsu/command_injection/cmdi_level7/flag.txt",
+    "Cyber Jutsu/command_injection/cmdi_level7/Dockerfile",
+    "Cyber Jutsu/command_injection/cmdi_level7/config",
+    "Cyber Jutsu/command_injection/cmdi_level7",
+    "Cyber Jutsu/command_injection/cmdi_level6/src/index.php",
+    "Cyber Jutsu/command_injection/cmdi_level6/config/nginx.conf",
+    "Cyber Jutsu/command_injection/cmdi_level6/src",
+    "Cyber Jutsu/command_injection/cmdi_level6/flag.txt",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/sandwich.png",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/pizza.png",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/money-bag.png",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/fruit-shop.png",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/apartment.png",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level5/src/static/img/game-2.jpg",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level5/src/static/img/convit.png",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level5/src/static/img/background_game.jpg",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level4/src/upload/admin/avatar.jpg",
+    "Cyber Jutsu/path_traversal/path_traversal_challenges/level4/src/static/img/game-2.jpg",
+    "Cyber Jutsu/1. Upload file .md",
+    "Cyber Jutsu/2. Path Traversal.md",
+    "Cyber Jutsu/Day2 - Uploadfile.md",
+    "Pasted image 20230306110926.png.md",
+    "Research/Mail Exchange/CVE-2021-27065 (ProxyLogon).md",
+    "Research/Mail Exchange/CVE-2021-31196 (ProxyOracle).md",
+    "Research/Mail Exchange/CVE-2021-34473 (ProxyShell).md",
+    "Research/Mail Exchange/CVE-2022-4108 (ProxyNotShell).md",
+    "README.md",
+    "Research/Kibana/Untitled.md",
     "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
-    "Research/Kibana/image/Pasted image 20230306141721.png",
-    "Research/Kibana/image/Pasted image 20230306141654.png",
-    "Research/Kibana/image/Pasted image 20230306141630.png",
-    "Research/Kibana/image/Pasted image 20230306141550.png",
-    "Research/Kibana/image/Pasted image 20230306141546.png",
-    "Research/Kibana/image/Pasted image 20230306141328.png",
-    "Research/Kibana/image/Pasted image 20230306141026.png",
-    "Research/Kibana/image/Pasted image 20230306140940.png",
     "'Pasted.md",
     "image/code1/png.md",
-    "image/code1",
-    "image",
     "Research/Kibana/image/Pasted.md",
     "image.md",
     "image/Pasted.md",
     "image/description.png.md",
     "image/description.md",
-    "New Text Document.txt",
-    "Research/Kibana/image",
-    "Research/Mail Exchange/CVE-2022-4108 (ProxyNotShell).md",
     "Research/Mail Exchange/image/statics.md",
     "Research/Mail Exchange/0. Install Mail Exchange.md",
     "Research/Mail Exchange/1. Exchange Admin Center.md",
     "Research/Kibana/statics/statics.md",
-    "Research/Mail Exchange/CVE-2021-27065 (ProxyLogon).md",
-    "Research/Kibana/statics",
-    "Research/Mail Exchange/CVE-2021-34473 (ProxyShell).md",
-    "Research/Mail Exchange/CVE-2021-31196 (ProxyOracle).md",
-    "Cyber Jutsu/Day2 - Uploadfile.md",
     "Research/Mail Exchange/TabShell.md",
-    "Research/Mail Exchange/image",
-    "Untitled.md",
-    "Context",
-    "Research/Zimbra",
-    "Research/Kibana",
-    "Research/Mail Exchange"
+    "Untitled.md"
   ]
 }

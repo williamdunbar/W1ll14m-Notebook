@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiVirusFill",
       "RiVirus-fill",
       "SiCodingninjas"
     ],
@@ -18,6 +19,6 @@
       "left": 0
     }
   },
-  "Research": "RiVirus-fill",
+  "Research": "RiVirusFill",
   "Cyber Jutsu": "SiCodingninjas"
 }
