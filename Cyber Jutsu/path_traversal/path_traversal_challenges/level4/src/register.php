@@ -21,7 +21,7 @@
         $_SESSION["name"] = $name;
         $db->create_user($name);
         // Create place for upload
-        $dir = '/var/www/html/upload/' . $name;
+        $dir = '/var/www/html/upload/' . $name; # Không thể pathtraversal được vì dòng 14 reg_match đã validate rồi
         if ( !file_exists($dir) )
           mkdir($dir);
         die(header('Location: /'));

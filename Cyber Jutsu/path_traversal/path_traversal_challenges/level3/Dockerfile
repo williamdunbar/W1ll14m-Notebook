@@ -29,6 +29,7 @@ RUN chown -R root:www-data /var/www/html/upload
 RUN chmod g+w /var/www/html/upload/
 
 # add write permission for exploit ~~
+# Cấp quyền write cho group: www-data
 RUN chmod g+w /var/www/html/
 
 # prevent delete
