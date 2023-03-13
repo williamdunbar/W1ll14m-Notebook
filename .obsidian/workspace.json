@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da736518143ace00",
+        "id": "49abe5f192097ed1",
         "type": "tabs",
         "children": [
           {
-            "id": "77cf8d4f5948b726",
+            "id": "af86cbc2b71e59d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Cyber Jutsu/2. Path Traversal.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Cyber Jutsu"
               }
             }
           }
@@ -31,7 +29,6 @@
       {
         "id": "20f8ada383788673",
         "type": "tabs",
-        "dimension": 63.357843137254896,
         "children": [
           {
             "id": "f10019dfb9fa0509",
@@ -39,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -59,15 +56,15 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "20e9c043d8210f45",
+        "id": "ab9548dc9b51c253",
         "type": "tabs",
-        "dimension": 36.6421568627451,
         "children": [
           {
-            "id": "fb13fb00dba9b21d",
+            "id": "71b2f277821fb6ee",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -87,16 +84,14 @@
       {
         "id": "6437ca31885722de",
         "type": "tabs",
-        "dimension": 41.66666666666666,
+        "dimension": 30.392156862745097,
         "children": [
           {
             "id": "0f77582fc036713d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyber Jutsu/2. Path Traversal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -104,7 +99,7 @@
       {
         "id": "cdeb4c5da95908f0",
         "type": "tabs",
-        "dimension": 58.33333333333334,
+        "dimension": 69.6078431372549,
         "children": [
           {
             "id": "b14f447cd3d14f96",
@@ -128,7 +123,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -138,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Jutsu/2. Path Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Jutsu/2. Path Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f10019dfb9fa0509",
+  "active": "af86cbc2b71e59d7",
   "lastOpenFiles": [
+    "Cyber Jutsu/2. Path Traversal.md",
+    "Cyber Jutsu/3. Command Injection.md",
+    "Cyber Jutsu/images/Pasted image 20230310213809.png",
+    "Cyber Jutsu/images/Pasted image 20230310192851.png",
+    "Cyber Jutsu/1. Upload file .md",
+    "Cyber Jutsu/images/Pasted image 20230308211844.png",
+    "Cyber Jutsu/images/Pasted image 20230308203302.png",
+    "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
     "Cyber Jutsu/command_injection/cmdi_level7/src/index.php",
     "Cyber Jutsu/command_injection/cmdi_level7/config/nginx.conf",
     "Cyber Jutsu/command_injection/cmdi_level7/src",
@@ -190,19 +191,12 @@
     "Cyber Jutsu/command_injection/cmdi_level6/src/index.php",
     "Cyber Jutsu/command_injection/cmdi_level6/config/nginx.conf",
     "Cyber Jutsu/command_injection/cmdi_level6/src",
-    "Cyber Jutsu/command_injection/cmdi_level6/flag.txt",
     "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/sandwich.png",
     "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/pizza.png",
     "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/money-bag.png",
     "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/fruit-shop.png",
     "Cyber Jutsu/path_traversal/path_traversal_challenges/level6/src/images/apartment.png",
     "Cyber Jutsu/path_traversal/path_traversal_challenges/level5/src/static/img/game-2.jpg",
-    "Cyber Jutsu/path_traversal/path_traversal_challenges/level5/src/static/img/convit.png",
-    "Cyber Jutsu/path_traversal/path_traversal_challenges/level5/src/static/img/background_game.jpg",
-    "Cyber Jutsu/path_traversal/path_traversal_challenges/level4/src/upload/admin/avatar.jpg",
-    "Cyber Jutsu/path_traversal/path_traversal_challenges/level4/src/static/img/game-2.jpg",
-    "Cyber Jutsu/1. Upload file .md",
-    "Cyber Jutsu/2. Path Traversal.md",
     "Cyber Jutsu/Day2 - Uploadfile.md",
     "Pasted image 20230306110926.png.md",
     "Research/Mail Exchange/CVE-2021-27065 (ProxyLogon).md",
@@ -211,7 +205,6 @@
     "Research/Mail Exchange/CVE-2022-4108 (ProxyNotShell).md",
     "README.md",
     "Research/Kibana/Untitled.md",
-    "Research/Kibana/CVE-2019-7609 (Prototype Pollution).md",
     "'Pasted.md",
     "image/code1/png.md",
     "Research/Kibana/image/Pasted.md",
